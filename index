@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Política de Privacidad - Alba</title>
+</head>
+<body>
+    <h1>Política de Privacidad de Alba</h1>
+    <p><strong>Última actualización:</strong> 19 de octubre de 2026</p>
+    <p>La aplicación <strong>Alba</strong> no recopila, almacena ni comparte ningún tipo de dato personal del usuario.</p>
+    <ul>
+        <li><strong>Datos de la app:</strong> Las alarmas y rutinas se guardan únicamente en el almacenamiento interno de tu dispositivo y no se envían a ningún servidor.</li>
+        <li><strong>Permisos:</strong> La app solicita permisos de notificaciones y alarmas exactas únicamente para hacer sonar la alarma a la hora programada.</li>
+        <li><strong>Servicios de terceros:</strong> La app se distribuye a través de Google Play.</li>
+    </ul>
+    <p>Si tienes alguna duda, puedes contactar en: daviddgn12026@gmail.com</p>
+</body>
+</html>
